@@ -1,4 +1,4 @@
-# Unpacker for Telock (all versions).
+# tEunlock - Unpacker for Telock (all versions).
 
 #### Written in 2000 September.
 
